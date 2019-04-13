@@ -1,17 +1,17 @@
 # packageList
 
 ## nodeJS
-* nunjucks [模板](https://github.com/mozilla/nunjucks)
+* **nunjucks**  [模板](https://github.com/mozilla/nunjucks)
 
-* anydoor [静态资源服务器](https://github.com/Samaritan89/anydoor)
+* **anydoor** [静态资源服务器](https://github.com/Samaritan89/anydoor)
 
-* anywhere [静态文件服务器](https://github.com/JacksonTian/anywhere)
+* **anywhere** [静态文件服务器](https://github.com/JacksonTian/anywhere)
 
-* 解析命令行参数 [Yargs](https://github.com/yargs/yargs)
+* 解析命令行参数 **[Yargs](https://github.com/yargs/yargs)**
 
-* 命令行模拟请求 [curl](https://github.com/curl/curl)
+* 命令行模拟请求 **[curl](https://github.com/curl/curl)**
 
-* 查询文件对应的Content-Type [node-mime](https://github.com/broofa/node-mime)
+* 查询文件对应的Content-Type **[node-mime](https://github.com/broofa/node-mime)**
 
 * 热更新 [node-supervisor](https://github.com/petruisfan/node-supervisor)
 
