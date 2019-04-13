@@ -1,11 +1,11 @@
 # packageList
 
 ## nodeJS
-* 模板 [nunjucks](https://github.com/mozilla/nunjucks)
+* nunjucks [模板](https://github.com/mozilla/nunjucks)
 
-* 静态资源服务器 [anydoor](https://github.com/Samaritan89/anydoor)
+* anydoor [静态资源服务器](https://github.com/Samaritan89/anydoor)
 
-* 静态文件服务器 [Anywhere](https://github.com/JacksonTian/anywhere)
+* anywhere [静态文件服务器](https://github.com/JacksonTian/anywhere)
 
 * 解析命令行参数 [Yargs](https://github.com/yargs/yargs)
 
