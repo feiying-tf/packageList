@@ -29,12 +29,32 @@
 
 * 推流 [node-fluent-ffmpeg](https://github.com/fluent-ffmpeg/node-fluent-ffmpeg)
 
+* 解析和字符串化URL查询字符串 [query-string](https://github.com/sindresorhus/query-string)
+
+* pm2 [pm2](https://github.com/Unitech/pm2)
+
+## koa
+* koa-websocket [koa-websocket](https://github.com/kudos/koa-websocket)
+* koa-router [koa-router](https://github.com/ZijianHe/koa-router)
+
+## express
+* 会话管理 [session](https://github.com/expressjs/session)
+
+## egg
+* egg [egg](https://github.com/eggjs/egg)
+
+## 数据库
+* mysql.js [mysql](https://github.com/mysqljs/mysql)
+* mongoose [mongoose](https://github.com/Automattic/mongoose)
+
 ## Vue
 * 图片预览组件 [vue-photo-preview](https://github.com/826327700/vue-photo-preview)
 
 * 滚动条 [easyscroll](https://github.com/GarveyZuo/EasyScroll)
 
 * 快递滚动任何数量的数据 [vue-virtual-scroller](https://github.com/Akryum/vue-virtual-scroller)
+
+* vue滚动加载插件 [vue-infinite-scroll](https://github.com/ElemeFE/vue-infinite-scroll)
 
 * Vue各种插件集合 [awesome-vue](https://github.com/vuejs/awesome-vue)
 
@@ -45,6 +65,8 @@
 * 后台产品前端集成方案 [d2-admin](https://github.com/d2-projects/d2-admin/blob/master/README.zh.md)
 
 * vue源码 [vue](https://github.com/vuejs/vue)
+
+* vue源码分析 [vue-analysis](https://github.com/ustbhuangyi/vue-analysis)
 
 * pdf应用 [vue-pdf.js-demo](https://github.com/goSunadeod/vue-pdf.js-demo)
 
@@ -84,7 +106,14 @@
 
 * 裁剪图片1 [vue-image-crop-upload](https://github.com/dai-siki/vue-image-crop-upload)
 
-* 
+* vue移动端toast插件(用来参考做vue插件) [vue-toast-m](https://github.com/JackySoft/vue-toast)
+
+* vue移动端UI库 [vx-ui](https://github.com/yunfeihuang/vx-ui)
+
+* vue+koa模仿bilibili [bilibili-vue](https://github.com/tfeng-use?tab=stars)
+
+## electron
+图片上传+管理新体验 [PicGo](https://github.com/Molunerfinn/PicGo)
 
 ## React
 * 珠峰课堂APP [app](https://github.com/zhufengketang/app)
@@ -129,6 +158,13 @@
 
 * react桌面端组件库 [shineout](https://github.com/sheinsight/shineout)
 
+* 基于 redux、redux-saga 和 react-router 的轻量级前端框架 [dva](https://github.com/dvajs/dva/blob/master/README_zh-CN.md)
+
+## react-native
+* 基于react-native的仿微信应用 [react-native-wechat](https://github.com/yorkie/react-native-wechat)
+
+* 异步存储 [react-native-async-storage](https://github.com/react-native-community/react-native-async-storage)
+
 ## 测试
 * 性能测试 [benchmark.js](https://github.com/bestiejs/benchmark.js)
 
@@ -165,6 +201,14 @@
 * NES-风格(8位机) 的CSS 框架 [NES.css](https://github.com/nostalgic-css/NES.css/blob/develop/.github/README-zh-CN.md)
 
 * Git [progit](https://github.com/iissnan/progit)
+
+* Web前端助手 [FeHelper](https://github.com/zxlie/FeHelper)
+
+* 工作工具 [awesome-tools](https://github.com/sorrycc/awesome-tools)
+
+* 高亮行号 [highlightjs-line-numbers.js](https://github.com/wcoder/highlightjs-line-numbers.js)
+
+* 博客园定制样式 [cnblogs_markdown_optimize](https://github.com/gzdaijie/cnblogs_markdown_optimize)
 
 ## Js
 * 30秒理解一段js代码 [30-seconds-of-code](https://github.com/kujian/30-seconds-of-code)
@@ -223,7 +267,11 @@
 
 * jsonp实现 [jsonp](https://github.com/webmodules/jsonp)
 
-* 解析和字符串化URL查询字符串 [query-string](https://github.com/sindresorhus/query-string)
+* 分享插件 [share.js](https://github.com/overtrue/share.js)
+
+* 直接在浏览器中运行NPM依赖项 [pika/web](https://github.com/pikapkg/web)
+
+* 冴羽写博客的地方 [Blog](https://github.com/mqyqingfeng/Blog)
 
 ## CSS
 * 动画过渡属性设置 [compass-ceaser-easing](https://github.com/jhardy/compass-ceaser-easing)
@@ -231,6 +279,8 @@
 * CSS妙用 [iCSS](https://github.com/chokcoco/iCSS)
 
 * 处理时间和日期的 JavaScript 库 [dayjs](https://github.com/iamkun/dayjs/blob/dev/docs/zh-cn/README.zh-CN.md#)
+
+* 矢量外形构建的 12px 像素风格字体 [nyway.12px](https://github.com/JJYing/Anyway.12px)
 
 ## Ts
 * ts入门教程 [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial)
@@ -267,6 +317,8 @@
 
 ## 小程序
 * 小程序增强型框架 [mpx](https://github.com/didi/mpx)
+* taro [taro](https://github.com/NervJS/taro)
+
 
 ## Java
 * Spring框架 [Spring Boot](https://github.com/spring-projects/spring-boot)
