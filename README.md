@@ -33,9 +33,27 @@
 
 * pm2 [pm2](https://github.com/Unitech/pm2)
 
+* 接口管理服务 [yapi](https://github.com/YMFE/yapi)
+
+* 用js实现各种web标准，用于nide.js [jsdom](https://github.com/jsdom/jsdom)
+
+* node的assert.deepEqual算法 [node-deep-equal](https://github.com/inspect-js/node-deep-equal)
+
+* node教程 [node-lessons](https://github.com/alsotang/node-lessons)
+
+* 将json转换为token [node-jsonwebtoken](https://github.com/auth0/node-jsonwebtoken)
+
+## flutter
+* flutter [flutter](https://github.com/flutter/flutter)
+
 ## koa
 * koa-websocket [koa-websocket](https://github.com/kudos/koa-websocket)
+
 * koa-router [koa-router](https://github.com/ZijianHe/koa-router)
+
+* bodyparser [bodyparser](https://github.com/koajs/bodyparser)
+
+* koa2跨域的中间件 [koa2-cors](https://github.com/zadzbw/koa2-cors)
 
 ## express
 * 会话管理 [session](https://github.com/expressjs/session)
@@ -43,9 +61,15 @@
 ## egg
 * egg [egg](https://github.com/eggjs/egg)
 
+* Egg + React + SSR 服务端渲染应用骨架 [egg-react-ssr](https://github.com/ykfe/egg-react-ssr)
+
 ## 数据库
 * mysql.js [mysql](https://github.com/mysqljs/mysql)
+
 * mongoose [mongoose](https://github.com/Automattic/mongoose)
+
+## angular
+* angular [angular](https://github.com/angular/angular.js)
 
 ## Vue
 * 图片预览组件 [vue-photo-preview](https://github.com/826327700/vue-photo-preview)
@@ -112,6 +136,35 @@
 
 * vue+koa模仿bilibili [bilibili-vue](https://github.com/tfeng-use?tab=stars)
 
+* vue-echarts [vue-echarts](https://github.com/ecomfe/vue-echarts)
+
+* vue-hooks [vue-hooks](https://github.com/yyx990803/vue-hooks)
+
+* vue 插件库 [awesome-github-vue](https://github.com/opendigg/awesome-github-vue)
+
+* 在 vue-class-component 里面使用vuex [vuex-class](https://github.com/ktsn/vuex-class)
+
+* 在 vue-class-component 里面使用的修饰器 [vue-property-decorator](https://github.com/kaorun343/vue-property-decorator)
+
+* 使用 Ant Design Vue 完成的后台管理系统
+[ant-design-pro-vue](https://github.com/sendya/ant-design-pro-vue)
+
+* 基于 TypeScript 创建vue项目的脚手架工具 [TypeScript-Vue-Starter](https://github.com/microsoft/TypeScript-Vue-Starter)
+
+* 静态网站生成器 [VuePress](https://vuepress.vuejs.org/zh/)
+
+* 移动端预览图片插件 [vue-picture-preview](https://github.com/xLogic92/vue-picture-preview)
+
+* 基于Element-ui 生成模板的工具 [vue-element-nocode-admin](https://github.com/Liugq5713/vue-element-nocode-admin)
+
+* 数据分析板 [Vue-Data-Board](https://github.com/dongsuo/vue-data-board)
+
+* 在vue2.x里面使用vue3.0的api [composition-api](https://github.com/vuejs/composition-api/blob/master/README.zh-CN.md)
+
+* 基于 vue-cli3 搭建的前端模板 [vue-cli3-template](https://github.com/cklwblove/vue-cli3-template)
+
+* 基于vue的后台渲染框架 [nuxt.js](https://github.com/nuxt/nuxt.js)
+
 ## electron
 图片上传+管理新体验 [PicGo](https://github.com/Molunerfinn/PicGo)
 
@@ -160,10 +213,58 @@
 
 * 基于 redux、redux-saga 和 react-router 的轻量级前端框架 [dva](https://github.com/dvajs/dva/blob/master/README_zh-CN.md)
 
+* 基于react16+ react-router4+ typescript react-redux的移动端音乐播放器 [react-music-lhy](https://github.com/BUPTlhuanyu/react-music-lhy)
+
+* react和antd 共享单车后台管理系统 [react-bike](https://github.com/CycloneBoy/react-bike)
+
+* react css模块化 [react-css-modules
+](https://github.com/gajus/react-css-modules)
+
+* 使用create-react-app，自定义属性时要用到工具 [customize-cra](https://github.com/arackaf/customize-cra)
+
+* 使用create-react-app，自定义属性时要用到的另外一个工具 [react-app-rewired](https://github.com/timarney/react-app-rewired/blob/master/README_zh.md)
+
+* 绑定react路由器v4和v5的redux [connected-react-router](https://github.com/supasate/connected-react-router)
+
+* 用js的方式使用css [css-in-js](https://github.com/MicheleBertoli/css-in-js)
+
+* 基于 typescript 的 react 项目脚手架 [TypeScript-React-Starter](https://github.com/microsoft/TypeScript-React-Starter)
+
+* react里面的另外一种状态管理工具 [mobx-react](https://github.com/mobxjs/mobx-react)
+
+* 基于spring的一个react动画库 [react-spring](https://github.com/react-spring/react-spring)
+
+* 使用react和desktop完成的github桌面版 [desktop](https://github.com/desktop/desktop)
+
+* 一个样式类名计算的工具 [classnames](https://github.com/JedWatson/classnames)
+
+* 一个基于ant-design和umiJS的管理系统 [antd-admin](https://github.com/zuiidea/antd-admin)
+
+### dva
+* dva 后台管理脚手架 [dva-boot-admin](https://github.com/LANIF-UI/dva-boot-admin)
+
+* dva model继承 [dva-model-extend](https://github.com/dvajs/dva-model-extend)
+
+### next.js
+* 创建next.js 应用的脚手架工具 [create-next-app](https://github.com/zeit/create-next-app)
+
+* 一个带有身份验证的next.js启动项目 [nextjs-starter](https://github.com/iaincollins/nextjs-starter)
+
+
 ## react-native
 * 基于react-native的仿微信应用 [react-native-wechat](https://github.com/yorkie/react-native-wechat)
 
 * 异步存储 [react-native-async-storage](https://github.com/react-native-community/react-native-async-storage)
+
+* render html内容为rn的views [react-native-htmlview](https://github.com/jsdf/react-native-htmlview)
+
+* 一个react-native toast 插件 [react-native-easy-toast](https://github.com/crazycodeboy/react-native-easy-toast)
+
+* 在 react native navigation 中使用 reducer [react-native-navigation-redux-helpers](https://github.com/bakery/react-native-navigation-redux-helpers)
+
+* 一个行可以打开和关闭的listView组件 [react-native-swipe-list-view](https://github.com/jemise111/react-native-swipe-list-view)
+
+* 一个ios风格的滑动按钮组件 [react-native-swipeout](https://github.com/dancormier/react-native-swipeout)
 
 ## 测试
 * 性能测试 [benchmark.js](https://github.com/bestiejs/benchmark.js)
@@ -180,6 +281,10 @@
 
 * 在commit前检测脚本错误 [pre-commit](https://github.com/observing/pre-commit)
 
+* 一个为node与浏览器的测试工具 [tape](https://github.com/substack/tape)
+
+* 一个小型的js测试库 [testdouble.js](https://github.com/testdouble/testdouble.js)
+
 ## UI测试
 
 * React UI测试 [jest](https://github.com/facebook/jest)
@@ -192,6 +297,16 @@
 * 私人翻译计划 [learn-translate](https://github.com/Yangfan2016/learn-translate)
 
 * 程序员英语学习指南 [A-Programmers-Guide-to-English](https://github.com/yujiangshui/A-Programmers-Guide-to-English)
+
+* 一个有颜值的喜马拉雅桌面客户端，支持 Mac、Win 和 Linux [Mob](https://github.com/zenghongtu/Mob)
+
+* 哔哩哔哩增强脚本 [Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved)
+
+* PC端下载bilibili视频 [BilibiliVideoDownload](https://github.com/blogwy/BilibiliVideoDownload)
+
+* 黄轶的简历 [resume](https://github.com/ustbhuangyi/resume)
+
+* 简约的在线简历 [resume](https://github.com/gwuhaolin/resume)
 
 ## 工具
 * 编码规范 [spec](https://github.com/ecomfe/spec)
@@ -209,6 +324,8 @@
 * 高亮行号 [highlightjs-line-numbers.js](https://github.com/wcoder/highlightjs-line-numbers.js)
 
 * 博客园定制样式 [cnblogs_markdown_optimize](https://github.com/gzdaijie/cnblogs_markdown_optimize)
+
+* Mac生产力工具链推荐 [tool](https://github.com/Louiszhai/tool)
 
 ## Js
 * 30秒理解一段js代码 [30-seconds-of-code](https://github.com/kujian/30-seconds-of-code)
@@ -232,6 +349,8 @@
 * js方法库 [lodash](https://github.com/lodash/lodash)
 
 * cookie操作 [js-cookie](https://github.com/js-cookie/js-cookie)
+
+* 另一个cookie操作 [cookie](https://github.com/jshttp/cookie)
 
 * 替代原始fetch的库 [Fetch filter](https://github.com/swissquote/fetch-filter)
 
@@ -273,6 +392,34 @@
 
 * 冴羽写博客的地方 [Blog](https://github.com/mqyqingfeng/Blog)
 
+* camsong的博客 [blog](https://github.com/camsong/blog)
+
+* Echarts [incubator-echarts](https://github.com/apache/incubator-echarts)
+
+* 实现 es6 中的 async 的功能 [co](https://github.com/tj/co)
+
+* 基于浏览器端 JS 实现的在线代理 [jsproxy](https://github.com/EtherDream/jsproxy)
+
+* 一个javascript函数式编程库 [Sanctuary](https://github.com/sanctuary-js/sanctuary)
+
+* 另一个javascript的函数式编程库 [underscore](https://github.com/jashkenas/underscore)
+
+* 将图片转换为灰度图 [sunglass](https://github.com/Ovilia/sunglass)
+
+* 一个可本地部署的、打通前后端及QA的、可视化的接口管理平台 [yapi](https://github.com/YMFE/yapi)
+
+* 一个富文本 [mavonEditor](https://github.com/hinesboy/mavonEditor)
+
+* 最全最新中国省，市，地区json及sql数据 [hina_regions](https://github.com/wecatch/china_regions)
+
+* es6处理字符串模板 [common-tags](https://github.com/declandewet/common-tags)
+
+* 图片懒加载 [lazysizes](https://github.com/aFarkas/lazysizes)
+
+* 一个定义和派发键盘快捷点的微型库 [keymaster](https://github.com/madrobby/keymaster)
+
+* 以树状图列出目录内容的nodejs实现 [dirTree](https://github.com/guzheyuan/dirTree)
+
 ## CSS
 * 动画过渡属性设置 [compass-ceaser-easing](https://github.com/jhardy/compass-ceaser-easing)
 
@@ -281,6 +428,16 @@
 * 处理时间和日期的 JavaScript 库 [dayjs](https://github.com/iamkun/dayjs/blob/dev/docs/zh-cn/README.zh-CN.md#)
 
 * 矢量外形构建的 12px 像素风格字体 [nyway.12px](https://github.com/JJYing/Anyway.12px)
+
+* sass颜色函数 [sass-color-helpers](https://github.com/voxpelli/sass-color-helpers)
+
+* 写css的灵感 [CSS-Inspiration](https://github.com/chokcoco/CSS-Inspiration)
+
+* css-modules [css-modules](https://github.com/css-modules/css-modules)
+
+* 移除无用的css代码 [PurgeCSS](https://github.com/FullHuman/purgecss)
+
+
 
 ## Ts
 * ts入门教程 [typescript-tutorial](https://github.com/xcatliu/typescript-tutorial)
@@ -295,10 +452,20 @@
 
 * h5播放器 [xgplayer](https://github.com/bytedance/xgplayer)
 
+* 用typescript重构axios [myXHR](https://github.com/leer0911/myXHR)
+
+* 快速创建基于typescript的项目 [typescript-library-starter](https://github.com/alexjoverm/typescript-library-starter)
+
 ## webpack
 * 自动加上前缀 [autoprefixer](https://github.com/postcss/autoprefixer)
 
 * 移动端打印 [vConsole](https://github.com/Tencent/vConsole)
+
+* html-webpack-plugin [html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin)
+
+* webpack移除无用css的模板 [purgecss-webpack-plugin](https://github.com/FullHuman/purgecss-webpack-plugin)
+
+* 《深入浅出webpack》电子书 [dive-into-webpack](https://github.com/gwuhaolin/dive-into-webpack)
 
 ## 面试
 * 每日一道前端大厂面试题 [Daily-Interview-Question](https://github.com/Advanced-Frontend/Daily-Interview-Question)
@@ -307,6 +474,22 @@
 
 * 面试图谱 [Interview Map](https://github.com/InterviewMap/CS-Interview-Knowledge-Map)
 
+* 每周十道大厂面试题 [Weekly-FE-Interview](https://github.com/airuikun/Weekly-FE-Interview)
+
+* 前端面试每日3 + 1 [fe-interview](https://github.com/haizlin/fe-interview)
+
+* js面试题 [javascript-questions](https://github.com/lydiahallie/javascript-questions/blob/master/zh-CN/README-zh_CN.md)
+
+* 前端基只是 [blog](https://github.com/sisterAn/blog)
+
+* 面试图谱 [Interview Map](https://github.com/KieSun/InterviewMap/blob/master/README-ZH.md)
+
+* 前端资源集合 [free-resources](https://github.com/abc-club/free-resources)
+
+* 木易杨博客 [blog](https://github.com/yygmind/blog)
+
+## 神经网络
+* 神经网络book [nndl.github.io](https://nndl.github.io/)
 
 ## 日常
 * 955不加班的公司名单 [955.WLB](https://github.com/formulahendry/955.WLB)
@@ -318,7 +501,14 @@
 ## 小程序
 * 小程序增强型框架 [mpx](https://github.com/didi/mpx)
 * taro [taro](https://github.com/NervJS/taro)
-
+* 基于taro开发的多端ui组件库 [taro-ui](https://github.com/NervJS/taro-ui)
+* 卡梅龙 [Chameleon](https://github.com/didi/chameleon)
 
 ## Java
 * Spring框架 [Spring Boot](https://github.com/spring-projects/spring-boot)
+
+## Python
+* 拍照做题程序 [mathAI](https://github.com/Roujack/mathAI)
+
+## go
+* go 学习资料 [golang-book](https://github.com/gwuhaolin/golang-book)
